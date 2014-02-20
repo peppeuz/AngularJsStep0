@@ -1,0 +1,13 @@
+<!doctype html>
+<!--Index-->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+      <title>LTM9</title>
+        <script src="lib/angular/angular.js"></script>
+        <script src="lib/angular/angular-route.js"></script>
+  </head>
+    <body>
+      <p>Index vuota, solo semplice HTML</p>
+    </body>
+</html>
